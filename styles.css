@@ -45,7 +45,9 @@ body {
 }
 
 .back-button:hover {
-    background-color: #0056b3;
+    background-color: #0071ea;
 }
 
+
+/* ich habe auch den button dunkel gefärbt, wenn man drüber hovered mit der maus.
 /* hier wurde der style des Buttons bestimmt. Und ich bin mir immernoch nicht sicher, ob ich ihn Blau haben möchte ;)
